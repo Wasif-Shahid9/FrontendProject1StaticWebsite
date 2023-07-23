@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FrontendProject1StaticWebsite%20%20/static/css/main.c060526c.css",
+    "main.js": "/FrontendProject1StaticWebsite%20%20/static/js/main.4586cc4f.js",
+    "static/media/headerImg.svg": "/FrontendProject1StaticWebsite%20%20/static/media/headerImg.ef1584290068ce93eeff7cd2ad184d24.svg",
+    "static/media/agencyimg.png": "/FrontendProject1StaticWebsite%20%20/static/media/agencyimg.4f9067ebb7135b462c19.png",
+    "static/media/clientimg.png": "/FrontendProject1StaticWebsite%20%20/static/media/clientimg.5378e3baec41de24d9c4.png",
+    "static/media/clientgroup.png": "/FrontendProject1StaticWebsite%20%20/static/media/clientgroup.b54c5321c096ba26d341.png",
+    "static/media/agencydot.svg": "/FrontendProject1StaticWebsite%20%20/static/media/agencydot.49949264d9e268fc001544c9e99d0153.svg",
+    "index.html": "/FrontendProject1StaticWebsite%20%20/index.html",
+    "static/media/clientplaybutton.svg": "/FrontendProject1StaticWebsite%20%20/static/media/clientplaybutton.f320452ac6111a12c6077ab26bb5d6e4.svg",
+    "static/media/clientbgcircle.svg": "/FrontendProject1StaticWebsite%20%20/static/media/clientbgcircle.6d8204110df7f9836a36c6d0a7d68ea4.svg",
+    "main.c060526c.css.map": "/FrontendProject1StaticWebsite%20%20/static/css/main.c060526c.css.map",
+    "main.4586cc4f.js.map": "/FrontendProject1StaticWebsite%20%20/static/js/main.4586cc4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c060526c.css",
+    "static/js/main.4586cc4f.js"
+  ]
+}
